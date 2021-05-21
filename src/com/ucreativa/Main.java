@@ -1,9 +1,14 @@
 package com.ucreativa;
 
+import com.ucreativa.familia.Jenny;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hola Clase");
+
+        Jenny bella = new Jenny();
+
+
     }
 
 
